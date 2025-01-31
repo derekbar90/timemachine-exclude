@@ -1,4 +1,3 @@
-```markdown
 # timemachine-exclude
 
 A CLI tool to manage Time Machine exclusions for `node_modules` and other specified directories. This tool helps you prevent backing up unnecessary large directories, improving the efficiency of Time Machine backups.
@@ -131,4 +130,3 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-```
